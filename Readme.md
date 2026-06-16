@@ -13,13 +13,13 @@ My primary focus centers on building seamless, scalable, and user-friendly store
 Whether I'm customizing Shopify themes, developing React applications, or solving complex production issues, I'm passionate about delivering high-quality solutions that create value for both businesses and their customers.
 </p>
 <h2 align="left"></h2>
-🔭 I’m currently working on Shopify storefronts and React-based applications
+<p>🔭 I’m currently working on Shopify storefronts and React-based applications</p>
 
-🌱 I’m currently learning Shopify App Development, GraphQL, and TypeScript
+<p>🌱 I’m currently learning Shopify App Development, GraphQL, and TypeScript</p>
 
-👩🏽‍💻 View my latest projects on GitHub
+<p>👩🏽‍💻 View my latest projects on GitHub</p>
 
-💬 Ask me about Shopify, Liquid, React, JavaScript, and CSS
+<p>💬 Ask me about Shopify, Liquid, React, JavaScript, and CSS</p>
 
 <h2 align="left">Languages and Tools 💁</h2>
 
