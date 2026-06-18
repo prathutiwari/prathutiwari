@@ -24,6 +24,7 @@ Whether I'm customizing Shopify themes, developing React applications, or solvin
 <h2 align="left">Languages and Tools 💁</h2>
 
 <h2 align="left">Programming Languages</h2>
+<p>Javascript</p>
 
 <h2 align="left">Frontend Development</h2>
 
