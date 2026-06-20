@@ -22,6 +22,7 @@ Whether I'm customizing Shopify themes, developing React applications, or solvin
 <p>💬 Ask me about Shopify, Liquid, React, JavaScript, and CSS</p>
 
 <h2 align="left">Languages and Tools 💁</h2>
+<p>JavaScript</p>
 
 <h2 align="left">Programming Languages</h2>
 <p>Javascript</p>
